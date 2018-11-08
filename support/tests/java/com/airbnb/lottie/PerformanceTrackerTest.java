@@ -1,4 +1,4 @@
-package aoscp.support.lottie;
+package havoc.support.lottie;
 
 import android.support.v4.util.Pair;
 

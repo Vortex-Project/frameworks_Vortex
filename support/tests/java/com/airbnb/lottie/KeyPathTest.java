@@ -1,8 +1,8 @@
-package aoscp.support.lottie;
+package havoc.support.lottie;
 
 import android.util.JsonReader;
 
-import aoscp.support.lottie.model.KeyPath;
+import havoc.support.lottie.model.KeyPath;
 
 import org.junit.Before;
 import org.junit.Test;

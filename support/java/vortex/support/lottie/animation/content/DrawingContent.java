@@ -1,4 +1,4 @@
-vortex vortex.support.lottie.animation.content;
+package vortex.support.lottie.animation.content;
 
 import android.graphics.Canvas;
 import android.graphics.Matrix;

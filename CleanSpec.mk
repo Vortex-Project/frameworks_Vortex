@@ -39,8 +39,8 @@
 # NEWER CLEAN STEPS MUST BE AT THE END OF THE LIST
 # ************************************************
 
-$(call add-clean-step, rm -rf $(OUT_DIR)/target/common/obj/JAVA_LIBRARIES/havoc-support-*)
-#$(call add-clean-step, rm -rf $(OUT_DIR)/target/common/obj/havoc-support.aidl)
+$(call add-clean-step, rm -rf $(OUT_DIR)/target/common/obj/JAVA_LIBRARIES/vortex-support-*)
+#$(call add-clean-step, rm -rf $(OUT_DIR)/target/common/obj/vortex-support.aidl)
 
 # ************************************************
 # NEWER CLEAN STEPS MUST BE AT THE END OF THE LIST

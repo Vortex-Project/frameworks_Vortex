@@ -15,12 +15,12 @@
 
 LOCAL_PATH := $(call my-dir)
 
-SUPPORT_PATH_LOTTIE := java/havoc/support/lottie
+SUPPORT_PATH_LOTTIE := java/vortex/support/lottie
 
 include $(CLEAR_VARS)
 
 LOCAL_USE_AAPT2 := true
-LOCAL_MODULE := havoc-support-lottie
+LOCAL_MODULE := vortex-support-lottie
 LOCAL_SDK_VERSION := $(SUPPORT_CURRENT_SDK_VERSION)
 LOCAL_SRC_FILES := $(call all-java-files-under, $(SUPPORT_PATH_LOTTIE))
 LOCAL_RESOURCE_DIR := $(LOCAL_PATH)/res

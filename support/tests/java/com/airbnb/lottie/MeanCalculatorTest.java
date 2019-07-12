@@ -1,6 +1,6 @@
-package havoc.support.lottie;
+package vortex.support.lottie;
 
-import havoc.support.lottie.utils.MeanCalculator;
+import vortex.support.lottie.utils.MeanCalculator;
 
 import org.junit.Before;
 import org.junit.Test;
